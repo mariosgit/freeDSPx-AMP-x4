@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "freeDSPx-AMPx4-rescue")(type "Legacy")(uri "${KIPRJMOD}/freeDSPx-AMPx4-rescue.lib")(options "")(descr ""))
+)
