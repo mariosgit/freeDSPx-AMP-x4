@@ -1,6 +1,6 @@
 # 	
 
-exported from google docs
+Exported from google docs, vscode md preview does show the embedded images.
 
 # 
 
