@@ -56,10 +56,6 @@ The freeDSPx AMP x4 is a four channel amplifier module with a digital eight chan
 
 The plans for the freeDSP boards are published under a Creative Commons Attribution Share-Alike 4.0 license, which allows the unrestricted use and modification of the module.  This means that experienced users can make their own version of the module, extending it and improving it, as long as they credit freeDSP and release their designs under the same license. The freeDSP brand and freeDSP logo are copyright of Sebastian Merchel and Ludwig Kormann and cannot be used without formal permission. This getting started guide is published under the same CC license. 
 
-# 
-
-# 
-
 # **Important information**  {#important-information}
 
 Boards from the freeDSP system are provided to you ‘as is’. We make no express or implied warranties whatsoever with respect to its functionality, operability, or use, including, without limitation, any implied warranties of merchantability, fitness for a particular purpose, or infringement. We expressly disclaim any liability whatsoever for any direct, indirect, consequential, incidental or special damages, including, without limitation, lost revenues, lost profits, losses resulting from business interruption or loss of data regardless of the form of action or legal theory under which the liability may be asserted, even if advised of the possibility or likelihood of such damages. Features and specifications might change without prior notice.
@@ -73,14 +69,6 @@ Figure 1 shows the key features of the freeDSPx AMP x4 board.
 ![overview\_amp.jpg][image1]
 
 **Figure 1 \- Overview of the freeDSPx AMP x4 board**
-
-## 
-
-## 
-
-## 
-
-## 
 
 ## **Output power** {#output-power}
 
@@ -133,10 +121,6 @@ All surface mounted devices of the freeDSPx AMP x4 have to be soldered in a refl
 All through hole components of the freeDSPx AMP x4 can be hand soldered after the reflow process.
 
 If you can not reflow solder the amplifier on your own you can order it from a professional manufacturer of your choice. If you group together with others for this and order a larger quantity you can save a lot of money.
-
-## 
-
-## 
 
 ## **Setting-up operation** {#setting-up-operation}
 
